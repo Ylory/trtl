@@ -22,7 +22,7 @@
 	 {
 		 "agent": "",
 		 "algorithm": "chukwa_v2",
-		 "host": "	ca.turtlecoin.herominers.com",
+		 "host": "ca.turtlecoin.herominers.com",
 		 "niceHash": false,
 		 "password": "Gorengan",
 		 "port": 10382,
